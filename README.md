@@ -1,4 +1,11 @@
-# Building a Virtual machine
+# Creating a Virtual machine
+Creating a server will give you insights into how servers work and help you be successful any time you’re working with a server in the future.
+
+## Prerequisites
+- 1 A laptop
+- 2 Download and install Vagrant from [here](https://www.vagrantup.com/downloads.html)
+- 3 Download and install Virtual box [here](https://www.virtualbox.org/wiki/Downloads)
+
 ## Getting Started
 
 Start by cloning this repo.
