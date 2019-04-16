@@ -2,7 +2,7 @@
 Creating a server will give you insights into how servers work and help you be successful any time you’re working with a server in the future.
 
 ## Prerequisites
-- 1 A laptop
+- 1 A laptop/ desktop with at least 4gb RAM
 - 2 Download and install Vagrant from [here](https://www.vagrantup.com/downloads.html)
 - 3 Download and install Virtual box [here](https://www.virtualbox.org/wiki/Downloads)
 
